@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Ubfi fuke
-nesto novo
-=======
-Ubfi fukeddd
->>>>>>> baed010adc50064e98fe8bbb0d5b006ba22c2afa
+Greska ovako treba
